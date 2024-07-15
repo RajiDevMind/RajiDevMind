@@ -1,6 +1,8 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
+<img width="100%" src="https://i.ibb.co/n199Lzw/Black-and-Red-Bold-Grunge-Business-You-Tube-Thumbnail.png" alt="Raji Opeyemi Ibrahim Image" border="0">
+###
 
 <p align="left">Hello! I'm a passionate Software Developer specializing in JavaScript and its ecosystem. My expertise spans both front-end and back-end development, allowing me to build robust and scalable applications. I love solving complex problems and am constantly exploring new technologies to enhance my skills. I`m Open to collaboration and job opportunity.
 </p>
